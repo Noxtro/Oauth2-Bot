@@ -1,0 +1,1 @@
+Ouvre le config et tu lit c tt 
